@@ -45,6 +45,7 @@ const QuizForm = ({ onStartQuiz }) => {
   {isLoading ? "Creating Quiz..." : "Start Quiz"}
 </button>
       </form>
+  <p className="pt-4 text-center">Made with 💙 by Mainak</p>
     </div>
   );
 };
