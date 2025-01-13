@@ -1,0 +1,10 @@
+
+.app-background {
+  background-image: url('../public/bg3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; 
+  width: 100%;
+  overflow:auto; 
+}
