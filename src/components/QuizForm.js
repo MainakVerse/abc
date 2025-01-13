@@ -42,7 +42,7 @@ const QuizForm = ({ onStartQuiz }) => {
     background: isLoading ? 'linear-gradient(to right, gray, darkgray)' : 'linear-gradient(to right, black, darkblue)'
   }}
 >
-  {isLoading ? "Creating Quiz..." : "Start Quiz"}
+  {isLoading ? "Creating Quiz..." : "Create Quiz"}
 </button>
       </form>
   <p className="pt-4 text-center">Made with 💙 by Mainak</p>
